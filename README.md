@@ -1,2 +1,2 @@
 # lcd-character-generators
-LCD character calculation for PicBasic on Android / Windows / Web
+LCD / Display character calculation for PicBasic on Android / Windows / Web
