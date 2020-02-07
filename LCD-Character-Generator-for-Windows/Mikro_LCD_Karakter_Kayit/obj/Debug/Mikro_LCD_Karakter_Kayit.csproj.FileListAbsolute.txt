@@ -1,0 +1,10 @@
+E:\Projects\Visual Studio\Mikro_LCD_Karakter_Kayit\Mikro_LCD_Karakter_Kayit\bin\Debug\Mikro_LCD_Karakter_Kayit.exe.config
+E:\Projects\Visual Studio\Mikro_LCD_Karakter_Kayit\Mikro_LCD_Karakter_Kayit\bin\Debug\Mikro_LCD_Karakter_Kayit.exe
+E:\Projects\Visual Studio\Mikro_LCD_Karakter_Kayit\Mikro_LCD_Karakter_Kayit\bin\Debug\Mikro_LCD_Karakter_Kayit.pdb
+E:\Projects\Visual Studio\Mikro_LCD_Karakter_Kayit\Mikro_LCD_Karakter_Kayit\obj\Debug\Mikro_LCD_Karakter_Kayit.csprojAssemblyReference.cache
+E:\Projects\Visual Studio\Mikro_LCD_Karakter_Kayit\Mikro_LCD_Karakter_Kayit\obj\Debug\Mikro_LCD_Karakter_Kayit.Form1.resources
+E:\Projects\Visual Studio\Mikro_LCD_Karakter_Kayit\Mikro_LCD_Karakter_Kayit\obj\Debug\Mikro_LCD_Karakter_Kayit.Properties.Resources.resources
+E:\Projects\Visual Studio\Mikro_LCD_Karakter_Kayit\Mikro_LCD_Karakter_Kayit\obj\Debug\Mikro_LCD_Karakter_Kayit.csproj.GenerateResource.cache
+E:\Projects\Visual Studio\Mikro_LCD_Karakter_Kayit\Mikro_LCD_Karakter_Kayit\obj\Debug\Mikro_LCD_Karakter_Kayit.csproj.CoreCompileInputs.cache
+E:\Projects\Visual Studio\Mikro_LCD_Karakter_Kayit\Mikro_LCD_Karakter_Kayit\obj\Debug\Mikro_LCD_Karakter_Kayit.exe
+E:\Projects\Visual Studio\Mikro_LCD_Karakter_Kayit\Mikro_LCD_Karakter_Kayit\obj\Debug\Mikro_LCD_Karakter_Kayit.pdb
